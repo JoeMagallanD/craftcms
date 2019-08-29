@@ -1,6 +1,8 @@
 {
   "require": {
     "craftcms/cms": "^3.0.0",
+    "jandh/translator": "1.0.1",
+    "la-haute-societe/craft-google-tag-manager": "1.1.0",
     "vlucas/phpdotenv": "^2.4.0"
   },
   "autoload": {
